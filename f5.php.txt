@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php 
+
+echo "day la f5"; 
+
+?>
+
+</body>
+</html>
